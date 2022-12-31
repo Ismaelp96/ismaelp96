@@ -7,7 +7,7 @@ Desenvolvedor frontEnd apaixonado pela área! 🥰
 
 ![Jamas GitHub stats](https://github-readme-stats.vercel.app/api?username=ismaelp96&show_icons=true&theme=tokyonight)
 
-## Tecnologias que eu uso no meu dia 
+## Tecnologias que eu uso no meu dia! 🚀
 
 <div style="display: inline_block">
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" title="HTML" >
@@ -17,7 +17,7 @@ Desenvolvedor frontEnd apaixonado pela área! 🥰
 <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express JS" title="Express JS" >
 </div>
 
-## FrameWorks que já usei
+## FrameWorks que já utilizei!
 <div style="display: inline_block">
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React" >
 <img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" title="Vue" >
