@@ -13,7 +13,8 @@
 <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node JS" title="Node JS" >
 <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express JS" title="Express JS" >
 </div>
-## FrameWorks
+
+## FrameWorks que já usei
 <div style="display: inline_block">
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React" >
 <img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" title="Vue" >
