@@ -21,7 +21,9 @@ Desenvolvedor frontEnd apaixonado pela área! 🥰
 <div style="display: inline_block">
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React" >
 <img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" title="Vue" >
-</div>
+</div><br/>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelp96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
