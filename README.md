@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Ismael "Jamas" Oliveira.🖐️
-Desenvolver web é simplismente incrível! 🥰
+Desenvolvedor frontEnd apaixonado pela área! 🥰
 
 
 
