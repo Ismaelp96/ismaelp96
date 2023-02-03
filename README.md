@@ -22,7 +22,7 @@ Desenvolvedor frontEnd apaixonado pela área! 🥰
   
 </div>
 
-## FrameWorks que já utilizei!
+## FrameWorks que tenho familiaridade!
 <div style="display: inline_block">
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React" >
 <img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" title="Vue" >
