@@ -1,4 +1,4 @@
-### Olá! Eu sou o Ismael "Jamas" Oliveira.🖐️
+### Olá! Eu sou o Ismael Oliveira.🖐️
 Desenvolvedor frontEnd apaixonado pela área! 🥰
 
 
