@@ -30,11 +30,6 @@ Desenvolvedor frontEnd apaixonado pela área! 🥰
 <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" >
 </div>
 
-## FrameWorks que tenho familiaridade!
-<div style="display: inline_block">
-<img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React" >
-<img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" title="Vue" >
-<img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" title"Angular" >
 </div><br/>
 
 
