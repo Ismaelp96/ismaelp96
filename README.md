@@ -1,6 +1,11 @@
 ### Olá, eu sou o Ismael Oliveira! 👋  
-Desenvolvedor Front-end apaixonado por transformar ideias em interfaces incríveis! 🚀<br/>
+## 👨‍💻 Sobre mim
 
+- 💻 Desenvolvedor Front-end com foco em React, Tailwind e TypeScript
+- 🎯 Sempre buscando evoluir como profissional e como pessoa
+- 🚀 Amante de boas práticas, performance e interfaces intuitivas
+- 📱 Explorando o mundo do mobile com React Native e Swift
+---
 ⭐ Sempre em busca de aprender algo novo e contribuir com projetos que façam a diferença.  
 Se quiser trocar uma ideia, me chama no LinkedIn!
 
