@@ -4,7 +4,7 @@
 - 💻 Desenvolvedor Front-end com foco em React, Tailwind e TypeScript
 - 🎯 Sempre buscando evoluir como profissional e como pessoa
 - 🚀 Amante de boas práticas, performance e interfaces intuitivas
-- 📱 Explorando o mundo do mobile com React Native e Swift
+- 📱 Explorando o mundo do mobile com React Native
 ---
 ⭐ Sempre em busca de aprender algo novo e contribuir com projetos que façam a diferença.  
 Se quiser trocar uma ideia, me chama no LinkedIn!
@@ -29,7 +29,6 @@ Se quiser trocar uma ideia, me chama no LinkedIn!
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
 </div>
 
 ---
